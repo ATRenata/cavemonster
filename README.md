@@ -10,4 +10,6 @@ https://atrenata.github.io/cavemonster/.
 ### Notes
 The project is visually simple as the main goal was to implement the HTN planner. 
 
+If you wish to access Unity code, please, check out the "unity-code" branch containing unity build for PC.
+
 
